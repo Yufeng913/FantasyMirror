@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 4ba68b67dab32fa428c4eb6dddeae639
+timeCreated: 1491723212
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: speechBubbleSprite_IN_0
+    21300002: speechBubbleSprite_IN_1
+    21300004: speechBubbleSprite_IN_2
+    21300006: speechBubbleSprite_IN_3
+    21300008: speechBubbleSprite_IN_4
+    21300010: speechBubbleSprite_IN_5
+    21300012: speechBubbleSprite_IN_6
+    21300014: speechBubbleSprite_IN_7
+    21300016: speechBubbleSprite_IN_8
+    21300018: speechBubbleSprite_IN_9
+    21300020: speechBubbleSprite_IN_10
+    21300022: speechBubbleSprite_IN_11
+    21300024: speechBubbleSprite_IN_12
+    21300026: speechBubbleSprite_IN_13
+    21300028: speechBubbleSprite_IN_14
+    21300030: speechBubbleSprite_IN_15
+    21300032: speechBubbleSprite_IN_16
+    21300034: speechBubbleSprite_IN_17
+    21300036: speechBubbleSprite_IN_18
+    21300038: speechBubbleSprite_IN_19
+    21300040: speechBubbleSprite_IN_20
+    21300042: speechBubbleSprite_IN_21
+    21300044: speechBubbleSprite_IN_22
+    21300046: speechBubbleSprite_IN_23
+    21300048: speechBubbleSprite_IN_24
+    21300050: speechBubbleSprite_IN_25
+    21300052: speechBubbleSprite_IN_26
+    21300054: speechBubbleSprite_IN_27
+    21300056: speechBubbleSprite_IN_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_1
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1225
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_2
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1225
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_3
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1225
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1050
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_6
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1050
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_7
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1050
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_9
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 875
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_10
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 875
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_11
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 875
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_13
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 700
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_14
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 700
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_15
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 700
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_17
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 525
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_18
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 525
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_19
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 525
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_21
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 350
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_22
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 350
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_23
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 350
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_25
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 175
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_26
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 175
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_27
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 175
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: speechBubbleSprite_IN_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 993
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

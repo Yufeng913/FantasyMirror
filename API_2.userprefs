@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PageScrolling\CharacterTingz\CharacterMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Time\time1.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectDemos\GesturesDemo\Scripts\CubeGestureListener.cs" Line="82" Column="23" />
+      <File FileName="Assets\PageScrolling\ScrollSnapRect.cs" Line="8" Column="30" />
+      <File FileName="Assets\PageScrolling\canvasOff.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\Interfaces\Kinect2Interface.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\soundRecognition.cs" Line="8" Column="12" />
+      <File FileName="Assets\KinectScripts\InteractionManager.cs" Line="6" Column="2" />
+      <File FileName="Assets\KinectDemos\OverlayDemo\Scripts\LinePainter.cs" Line="313" Column="25" />
+      <File FileName="Assets\KinectDemos\OverlayDemo\Scripts\PhotoShooter.cs" Line="86" Column="3" />
+      <File FileName="Assets\PageScrolling\TimerVoiceReg.cs" Line="123" Column="16" />
+      <File FileName="Assets\Scripts\Time\time.cs" Line="28" Column="2" />
+      <File FileName="Assets\KinectScripts\PortraitBackground.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\MultiScene\LoadLevelWithDelay.cs" Line="29" Column="51" />
+      <File FileName="Assets\Scripts\Speech\speechBubbleAnimate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Speech\speechAnimate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Events.cs" Line="59" Column="62" />
+      <File FileName="Assets\PageScrolling\CharacterTingz\CharacterMovement.cs" Line="111" Column="64" />
+      <File FileName="Assets\KinectDemos\OverlayDemo\Scripts\PhotoBoothController.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Date you son of a bitch\Date.cs" Line="20" Column="34" NotebookId="1" />
+      <File FileName="Assets\KinectDemos\GesturesDemo\Scripts\gestureScrolling.cs" Line="295" Column="6" NotebookId="1" />
+      <File FileName="Assets\Scripts\News\article_1\vertical_2.cs" Line="13" Column="60" NotebookId="1" />
+      <File FileName="Assets\Scripts\News\newsNav_L.cs" Line="55" Column="6" NotebookId="1" />
+      <File FileName="Assets\Scripts\News\article_1\articleImageScript_2.cs" Line="8" Column="24" NotebookId="1" />
+      <File FileName="Assets\Scripts\News\article_1\articleImageScript_3.cs" Line="11" Column="22" NotebookId="1" />
+      <File FileName="Assets\Scripts\News\article_1\articleImageScript_4.cs" Line="11" Column="22" NotebookId="1" />
+      <File FileName="Assets\Scripts\News\articleImageScript.cs" Line="11" Column="22" NotebookId="1" />
+      <File FileName="Assets\Scripts\News\articleSourceScript.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
